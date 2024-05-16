@@ -1,4 +1,4 @@
-# use-lives-state
+# use-live-state
 
 This package provides a lil tiny react hook to facilitate React components that have their state managed by LiveState.
 
